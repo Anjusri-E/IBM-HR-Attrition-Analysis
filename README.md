@@ -107,22 +107,20 @@ Run all cells in `ibm_hr_attrition.ipynb`.
 
 ---
 
-## 📎 **9. Dataset Source**
+## 📎 **8. Dataset Source**
 IBM HR Analytics Employee Attrition Dataset  
 (Provided inside the repository)
 
 ---
 
-## 🔗 **10. GitHub Repository**
+## 🔗 **9. GitHub Repository**
 👉 https://github.com/Anjusri-E/IBM-HR-Attrition-Analysis
 
 ---
 
-## 📬 **Contact**
-For questions or collaboration:  
-**Anjusri E**  
-📧 Email: *(add your email here)*  
-🔗 GitHub: https://github.com/Anjusri-E  
+## 📬 **Author**
+ **Anjusri E**  
+  🔗 GitHub: https://github.com/Anjusri-E  
 
 ---
 
