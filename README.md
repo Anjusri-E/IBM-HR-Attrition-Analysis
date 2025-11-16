@@ -93,29 +93,38 @@ Model Used: **Random Forest Classifier**
 
 ---
 
-## 📂 **7. Project Structure**
+
+---
+
+## ▶️ **7. Running the Project**
+
+### Install required libraries:
 
 
-IBM_HR_ATTRITION_PROJECT/
-├── ibm_hr_attrition.ipynb
-├── WA_Fn-UseC_-HR-Employee-Attrition.csv
-├── ibm_hr_cleaned.csv
-├── requirements.txt
-├── README.md
-└── plots/
-├── attrition_distribution.png
-├── Age_distribution.png
-├── MonthlyIncome_distribution.png
-├── Department_countplot.png
-├── Gender_countplot.png
-├── correlation_heatmap.png
-└── feature_importance.png
+### Open the Jupyter notebook:
 
+Run all cells in `ibm_hr_attrition.ipynb`.
 
-📎 Dataset Source
+---
 
-IBM HR Analytics Employee Attrition Dataset
+## 📎 **9. Dataset Source**
+IBM HR Analytics Employee Attrition Dataset  
+(Provided inside the repository)
 
-🔗 GitHub Repository
+---
 
+## 🔗 **10. GitHub Repository**
 👉 https://github.com/Anjusri-E/IBM-HR-Attrition-Analysis
+
+---
+
+## 📬 **Contact**
+For questions or collaboration:  
+**Anjusri E**  
+📧 Email: *(add your email here)*  
+🔗 GitHub: https://github.com/Anjusri-E  
+
+---
+
+
+
