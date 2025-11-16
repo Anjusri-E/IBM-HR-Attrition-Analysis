@@ -97,16 +97,22 @@ Conduct job satisfaction surveys
 
 Improve work–life balance policies
 
-📂 Project Structure
-│── ibm_hr_attrition.ipynb
-│── ibm_hr_cleaned.csv
-│── WA_Fn-UseC_-HR-Employee-Attrition.csv
-│── requirements.txt
-│── plots/
-│    ├── attrition_age.png
-│    ├── attrition_department.png
-│    ├── correlation_heatmap.png
-└── README.md
+IBM_HR_ATTRITION_PROJECT/
+│
+├── ibm_hr_attrition.ipynb                  # Main notebook
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv   # Raw dataset
+├── ibm_hr_cleaned.csv                      # Cleaned dataset
+├── requirements.txt
+│
+└── plots/
+    ├── attrition_distribution.png
+    ├── Age_distribution.png
+    ├── MonthlyIncome_distribution.png
+    ├── Department_countplot.png
+    ├── Gender_countplot.png
+    ├── correlation_heatmap.png
+    └── feature_importance.png
+
 
 📎 Dataset Source
 
